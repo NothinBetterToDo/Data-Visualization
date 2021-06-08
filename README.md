@@ -13,11 +13,17 @@ The interactive map shows the mean sale price of the neighbourhood area within t
 
 
 
+
+
 ![Image Neighbourhood] (/images/neighbourhood.png)
 
 
 
+
+
+
 ![Image Mean Sale Price] (/images/sale_price.png)
+
 
 
 
