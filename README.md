@@ -9,20 +9,9 @@ The interactive map shows the mean sale price of the neighbourhood area within t
 **IDE:** PyCharm.
 
 
-<img src="https://github.com/NothinBetterToDo/Data-Visualization/blob/master/images/main_app.png" align="left" height="400" width="600"/>
-
-
-
-
-
-
-<img src="https://github.com/NothinBetterToDo/Data-Visualization/blob/master/images/neighbourhood.png" align="left" height="400" width="600"/>
-
-
-
-
-
-<img src="https://github.com/NothinBetterToDo/Data-Visualization/blob/master/images/sale_price.png" align="left" height="400" width="600"/>
+<img src="https://github.com/NothinBetterToDo/Data-Visualization/blob/master/images/main_app.png" align="left" height="400" width="600"/></br>
+<img src="https://github.com/NothinBetterToDo/Data-Visualization/blob/master/images/neighbourhood.png" align="left" height="400" width="600"/></br>
+<img src="https://github.com/NothinBetterToDo/Data-Visualization/blob/master/images/sale_price.png" align="left" height="400" width="600"/></br>
 
 
 
