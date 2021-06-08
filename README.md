@@ -10,24 +10,22 @@ The interactive map shows the mean sale price of the neighbourhood area within t
 
 
 <img src="https://github.com/NothinBetterToDo/Data-Visualization/blob/master/images/main_app.png" align="left" height="400" width="600"/></br>
+
 <img src="https://github.com/NothinBetterToDo/Data-Visualization/blob/master/images/neighbourhood.png" align="left" height="400" width="600"/></br>
+
 <img src="https://github.com/NothinBetterToDo/Data-Visualization/blob/master/images/sale_price.png" align="left" height="400" width="600"/></br>
 
 
 
-## Projects
+## Data
 
-[Breast Wisconsin](https://github.com/NothinBetterToDo/PYTHON-PROJECTS/tree/master/Breast_Wisconsin)
-* Data cleaning, visualization and K Means clustering using scikit-learn <br/>
+[HouseData](https://github.com/NothinBetterToDo/Data-Visualization/tree/master/data)
+* The csv dataset is available on Kaggle <br/>
 
 
 ## Status
 Project is: _completed_
 
-## Inspiration
-[Jason Brownlee](https://machinelearningmastery.com) </br>
-[Kaggle](https://www.kaggle.com)</br>
-Graduate School - Georgia Tech, Indiana University Bloomington
 
 ## Contact
 Created by @HumanBeing
