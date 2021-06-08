@@ -9,9 +9,9 @@ The interactive map shows the mean sale price of the neighbourhood area within t
 **IDE:** PyCharm.
 
 <br>
-  <img src="master/images/main_app.png" align="left" height="400" width="600">
-<img src="master/images/neighbourhood.png" align="left" height="400" width="600">
-<img src="master/images/sale_price.png" align="left" height="400" width="600">
+    <img src="master/images/main_app.png" class="centerImage" height="400" width="600">
+    <img src="master/images/neighbourhood.png" class="centerImage" height="400" width="600">
+    <img src="master/images/sale_price.png" class="centerImage" height="400" width="600">
 <br>
 
 
