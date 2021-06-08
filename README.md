@@ -2,14 +2,24 @@
 > Simple app using flask to display folium map. 
 > The main objective of the project is to display an interactive map with Folium on an app. 
 
-## General Info
-Forrest Gump, 1994: 
- > My mama always said life was like a box of chocolates. You never know what you're gonna get.
+## Project Description
+The interactive map shows the mean sale price of the neighbourhood area within the King County in Seattle. 
 
-Analytics projects are just like a box of chocolates. Each and every project is unique and requires different data collection, processing, feature engineering and modelling approaches. This project contains some of my side projects in graduate school, online courses/tutorials, etc.  
+**Stack:** Folium, Flask.
+**IDE:** PyCharm.
 
-## IDE
-* PyCharm
+
+![Image Main App] (/images/main_app.png){:height="20px" width="20px"}
+
+
+
+![Image Neighbourhood] (/images/neighbourhood.png)
+
+
+
+![Image Mean Sale Price] (/images/sale_price.png)
+
+
 
 ## Projects
 
