@@ -16,15 +16,13 @@ The interactive map shows the mean sale price of the neighbourhood area within t
 
 
 
-![Image Neighbourhood] <img src="https://github.com/NothinBetterToDo/Data-Visualization/blob/master/images/neighbourhood.png" width="600"/>
+<img src="https://github.com/NothinBetterToDo/Data-Visualization/blob/master/images/neighbourhood.png" align="left" height="400" width="600"/>
 
 
 
 
 
-
-![Image Mean Sale Price] <img src="https://github.com/NothinBetterToDo/Data-Visualization/blob/master/images/sale_price.png" width="600"/>
-
+<img src="https://github.com/NothinBetterToDo/Data-Visualization/blob/master/images/sale_price.png" align="left" height="400" width="600"/>
 
 
 
